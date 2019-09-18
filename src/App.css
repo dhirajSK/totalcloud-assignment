@@ -31,3 +31,34 @@
     transform: rotate(360deg);
   }
 }
+
+
+/**/
+
+
+body{
+  background-color:#efefef;
+}
+
+#root{
+  margin:50px 0 0 0;
+}
+.ag{
+  margin:0 0 20px 0;
+}
+
+#unassign-button, #assign-button{
+  display:table;
+  margin: 1em auto;
+}
+
+.ag img {
+    width: 100%;
+    height: auto;
+}
+
+#pool1,#pool2{
+  padding:10px;
+  background-color:white;
+  box-shadow: 5px 5px 5px 1px #888888;
+}
